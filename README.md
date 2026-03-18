@@ -4,10 +4,12 @@
 DevOps lab
 
 ## Команда
-me and Amantur
+Ulan - team lider
 
 ## Стек технологий
-our brains, hands and laptop
+Docker, Linux
 
 ## Инструкции по запуску
 just feel
+think before you do
+be smart
