@@ -4,7 +4,7 @@
 DevOps lab
 
 ## Команда
-me and - Амантур Османбаев — Frontend Developer
+me and - Амантур Османбаев — Backend Developer
 
 ## Стек технологий
 our brains, hands and laptop - Docker
