@@ -4,7 +4,7 @@
 DevOps lab
 
 ## Команда
-Ulan - team lider
+Ulan - team lider, handsome guy
 
 ## Стек технологий
 Docker, Linux
